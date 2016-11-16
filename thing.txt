@@ -27,3 +27,4 @@ public feature 2
 public feature 3
 public feature 4
 master edit 1
+master edit 2
