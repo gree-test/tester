@@ -22,3 +22,4 @@ feature change 2
 feature change 3
 next feature 1
 next feature 2
+public feature 1
