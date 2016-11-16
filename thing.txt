@@ -24,3 +24,4 @@ next feature 1
 next feature 2
 public feature 1
 public feature 2
+public feature 3
