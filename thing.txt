@@ -30,3 +30,4 @@ master edit 1
 master edit 2
 local feature 1
 local feature 2
+local feature 3
