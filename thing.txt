@@ -37,3 +37,4 @@ local feature 6
 local feature 7
 local feature 8
 private change 1
+private change 2
