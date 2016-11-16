@@ -34,3 +34,4 @@ local feature 3
 local feature 4
 local feature 5
 local feature 6
+local feature 7
