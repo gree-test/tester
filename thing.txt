@@ -61,3 +61,4 @@ feature commit 4
 multi commit 1
 multi commit 2
 multi commit 3
+multi commit 4
