@@ -58,3 +58,5 @@ topic 4
 topic 5
 topic 6
 feature commit 4
+multi commit 1
+multi commit 2
