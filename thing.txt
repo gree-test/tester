@@ -64,6 +64,7 @@ multi commit 3
 multi commit 4
 feature commit 5
 feature commit 6
+master commit 1
 squash feature 1
 squash feature 2
 squash feature 3
