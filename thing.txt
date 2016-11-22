@@ -67,3 +67,4 @@ feature commit 6
 squash feature 1
 squash feature 2
 squash feature 3
+squash feature 4
