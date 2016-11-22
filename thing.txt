@@ -63,3 +63,4 @@ multi commit 2
 multi commit 3
 multi commit 4
 feature commit 5
+feature commit 6
