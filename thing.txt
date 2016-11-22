@@ -74,3 +74,5 @@ squash feature 3
 squash feature 4
 feature commit 7
 feature commit 8
+feature commit 9
+feature commit 10
